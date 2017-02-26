@@ -1,0 +1,27 @@
+.wrapper {
+    background: #fff;
+}
+
+.resume {
+    width: auto;
+    padding: 0;
+}
+
+.resume, .photo {
+    box-shadow: none;
+}
+
+.page-brake {
+    page-break-before: always;
+
+}
+
+h2 {
+    page-break-after: avoid;
+}
+table{
+    margin: 0;
+}
+td {
+    width: 400px;
+}
